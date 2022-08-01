@@ -1,4 +1,4 @@
-# TEST CI JOB ##
+# TEST CI JOB #
 # mavenbuild
 This Repo consists of 2 Maven projects:
  1. samplejar: Build a standard jar devlierable
